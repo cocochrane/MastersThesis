@@ -1,0 +1,5 @@
+Sleep Info: {'nPreviousNights': 1, 'sleepFeatures': ['Wake', 'SWS']}
+Test Info: {'previousTestFeatures': [['PVT', 'MeanInverseRT']], 'timingInfoPreviousTests': ['CircadianPhase', 'HoursAwake'], 'nPreviousTimesteps': 1, 'timingInfoCurrentTest': ['HoursAwake', 'CircadianPhase', 'HoursOnProtocol', 'SESSION', 'WP', 'SleepOpp72'], 'ignoreFirstN': True}
+Demographic Info: ['study', 'participantCode', 'age', 'gender']
+Output Info: {'outputDataType': 'PVT', 'outputFeature': 'MeanInverseRT', 'log_output': False}
+Pre-processing Info: {'normalize': True, 'imputationType': 'median', 'colsToNotNormalize': ['gender', 'study', 'WP(t)', 'DecimalTime', 'SESSION(t)', 'participantCode', 'PVTMeanInverseRT(t)']}
